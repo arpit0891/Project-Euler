@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 13
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # We do a straightforward sum thanks to Python's built-in arbitrary precision integer type.
 def compute():
