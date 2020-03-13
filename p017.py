@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 17
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # - For the numbers 0 to 19, we write the single word:
 #   {zero, one, two, three, four, five, six, seven, eight, nine,
