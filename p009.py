@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 9
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # Computers are fast, so we can implement a brute-force search to directly solve the problem.
 def compute():
 	PERIMETER = 1000
