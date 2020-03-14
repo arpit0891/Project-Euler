@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 21
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # We first compute a table of sum-of-proper-divisors, then we use it to test which numbers are amicable.
 # This approach differs from the Java implementation because trying to directly compute
