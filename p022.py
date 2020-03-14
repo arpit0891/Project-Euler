@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 22
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # We apply straightforward algorithms to sort the names, sum the letter values, and multiply by the position.
 def compute():
