@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 39
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 def compute():
 	ans = max(range(1, 1001), key=count_solutions)
