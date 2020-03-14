@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 31
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # We use the standard dynamic programming algorithm to solve the subset sum problem over integers.
 # The order of the coin values does not matter, but the values need to be unique.
