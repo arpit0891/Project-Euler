@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 59
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 def compute():
 	bestkey = max(((x, y, z)
 		for x in range(97, 123)  # ASCII lowercase 'a' to 'z'
