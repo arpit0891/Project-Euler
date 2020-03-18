@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 117
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # How many ways can a row n units long be filled with:
 # - Black squares 1 unit long
 # - Red tiles 2 units long
