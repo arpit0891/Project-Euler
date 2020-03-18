@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 96
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 def compute():
 	def extract(sudoku):  # For example: extract([3, 9, 4, 1, ...]) = 394
 		return int("".join(map(str, sudoku[ : 3])))
