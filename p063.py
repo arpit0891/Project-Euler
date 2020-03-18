@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 63
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # Let's examine n^k for different values of n and k and see which
 # choices cannot possibly work (i.e. not being exactly k digits long).
