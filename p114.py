@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 114
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 	
 # How many ways can a row n units long be filled? Denote this quantity as ways[n].
