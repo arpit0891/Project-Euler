@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 89
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 def compute():
 	ans = sum(len(s) - roman_numeral_len(parse_roman_numeral(s)) for s in TO_SIMPLIFY)
 	return str(ans)
