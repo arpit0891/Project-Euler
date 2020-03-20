@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 166
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # Give variables to the grid cells like this:
 #   [ a b c d ]
 #   [ e f g h ]
