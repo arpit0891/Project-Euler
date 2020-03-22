@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 173
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 import sys
 if sys.version_info.major == 2:
 	range = xrange  # Very important to let the inner loop terminate early
