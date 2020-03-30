@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 265
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # In this problem we look at 2^n-digit binary strings and the n-digit substrings of these.
 # We are given that n = 5, so we are looking at windows of 5 bits in 32-bit strings.
 # 
