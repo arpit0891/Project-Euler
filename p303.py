@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 303
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 def compute():
 	# This function computes and returns the smallest positive multiple of n such that the result
 	# uses only the digits 0, 1, 2 in base 10. For example, fmm(2) = 2, fmm(3) = 12, fmm(5) = 10.
