@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 287
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # Let R = 2^(N-1) denote the radius of the circle (filled disk) being drawn.
 # 
 # First, we can simplify the problem by translating (shifting) the coordinate system.
