@@ -9,16 +9,9 @@ Find the sum of all the multiples of 3 or 5 below N.
 def solution(n):
     """Returns the sum of all the multiples of 3 or 5 below n.
 
-    >>> solution(3)
-    0
-    >>> solution(4)
-    3
-    >>> solution(10)
-    23
-    >>> solution(600)
-    83700
+    
     """
-
+//Solution
     result = 0
     for i in range(n):
         if i % 3 == 0:
@@ -26,7 +19,5 @@ def solution(n):
         elif i % 5 == 0:
             result += i
     return result
-
-
 if __name__ == "__main__":
     print(solution(int(input().strip())))
