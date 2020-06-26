@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 120
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # For a given a, what is the n that maximizes the remainder, and what is the value of this remainder?
 # 
 # Let's simplify one term, mod a^2:

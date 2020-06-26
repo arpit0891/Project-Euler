@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 160
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 def compute():
 	ans = factorial_suffix(10**12)
 	return str(ans)

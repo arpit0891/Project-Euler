@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 208
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 # Because the robot moves in 72-degree arcs, it can only face 5 possible directions.
 # - Define the initial northward direction as the integer 0.

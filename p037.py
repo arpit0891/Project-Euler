@@ -1,10 +1,3 @@
-# 
-# Solution to Project Euler problem 37
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
 
 import eulerlib, itertools, sys
 if sys.version_info.major == 2:

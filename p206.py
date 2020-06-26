@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 206
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # The major optimization is to do arithmetic in base 10 in the main loop, avoiding division and modulo
 def compute():
 	# Initialize

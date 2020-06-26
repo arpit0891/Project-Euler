@@ -1,10 +1,3 @@
-# 
-# Solution to Project Euler problem 28
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
 
 
 # From the diagram, let's observe the four corners of an n * n square (where n is odd).

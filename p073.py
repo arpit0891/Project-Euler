@@ -1,10 +1,3 @@
-# 
-# Solution to Project Euler problem 73
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
 
 
 # The Stern-Brocot tree is an infinite binary search tree of all positive rational numbers,

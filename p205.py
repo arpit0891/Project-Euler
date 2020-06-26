@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 205
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 def compute():
 	nine_pyramidal_pdf = [1]
 	PYRAMIDAL_DIE_PDF = [0, 1, 1, 1, 1]

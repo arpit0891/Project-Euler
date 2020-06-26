@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 162
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # Among the set of n-digit hexadecimal numbers, how many of them:
 #   
 #   Are there in total?: 15*16^(n-1).

@@ -1,11 +1,3 @@
-# 
-# Solution to Project Euler problem 102
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 
 def compute():
 	ans = sum(1 for coords in TRIANGLES if is_origin_in_triangle(*coords))

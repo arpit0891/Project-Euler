@@ -1,15 +1,4 @@
-# 
-# Solution to Project Euler problem 214
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
 import array
-
-
-# Requires about 400 MB of memory
 def compute():
 	LIMIT = 40000000
 	totient = list_totients(LIMIT - 1)

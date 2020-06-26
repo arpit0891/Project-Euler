@@ -1,10 +1,3 @@
-# 
-# Solution to Project Euler problem 88
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
 
 
 # minSumProduct[k] is the smallest positive integers that can be written as both a sum and a product of the same collection of k positive integers.

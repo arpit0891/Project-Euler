@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 164
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # Let ways[d][p] be the number of ways that a d-digit number (with possible leading zeros)
 # whose first 'consecutive' (i.e. 3) digits are the same as the digits of p (padding with
 # leading zeros up to 'consecutive' digits) and where each of the ways does not have

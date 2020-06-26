@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 301
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # In a game of Nim where both players play with perfect strategy, if the current state is a collection (multiset) of piles
 # with sizes {n1, n2, ..., n_m}, then the current player will lose if and only if n1 XOR n2 XOR ... XOR n_m = 0.
 # In this problem, we specialize the condition to just n XOR 2n XOR 3n = 0.

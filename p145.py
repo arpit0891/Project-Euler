@@ -1,12 +1,3 @@
-# 
-# Solution to Project Euler problem 145
-# Copyright (c) Project Nayuki. All rights reserved.
-# 
-# https://www.nayuki.io/page/project-euler-solutions
-# https://github.com/nayuki/Project-Euler-solutions
-# 
-
-
 # First we define an n-digit number as a number beginning with the digit 1 to 9 (i.e. not 0) and having (n-1)
 # of any digit thereafter. For example, 10652 is a 5-digit number, but 08913 = 8913 is a 4-digit number.
 # 
